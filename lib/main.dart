@@ -1,5 +1,6 @@
-import 'package:habitracker/layouts/column.dart';
+import 'package:habitstracker/getstarted/getstarted.dart';
 import 'package:flutter/material.dart';
+
 
 void main() {
   runApp(const MainApp());

@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\Users\Eze\Desktop\feli\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\Eze\Desktop\feli\app\habitstracker"
+export "FLUTTER_ROOT=D:\Descargas\flutter"
+export "FLUTTER_APPLICATION_PATH=D:\escritorio\app\HabitsTracker"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=0.1.0"
